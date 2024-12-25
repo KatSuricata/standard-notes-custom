@@ -1,20 +1,20 @@
 {
-  "identifier": "ml.xnor.sn-theme-dracula",
-  "name": "Dracula",
+  "identifier": "com.katsuricata.sn-theme-dracula-pro",
+  "name": "Dracula PRO",
   "content_type": "SN|Theme",
   "area": "themes",
   "version": "2.0.1",
   "description": "A Dracula theme for Standard Notes",
-  "url": "https://cdn.jsdelivr.net/gh/dracula/standard-notes@2.0.1/dist/dist.css",
+  "url": "https://raw.githubusercontent.com/KatSuricata/standard-notes-custom/refs/heads/master/dist/dist.css",
   "latest_url": "https://cdn.jsdelivr.net/gh/dracula/standard-notes@master/ext.json",
-  "download_url": "https://github.com/dracula/standard-notes/archive/2.0.1.zip",
-  "marketing_url": "https://github.com/dracula/standard-notes",
+  "download_url": "https://github.com/KatSuricata/standard-notes-custom/archive/2.0.1.zip",
+  "marketing_url": "https://github.com/KatSuricata/standard-notes-custom",
   "thumbnail_url": "https://cdn.jsdelivr.net/gh/dracula/standard-notes/preview.png",
   "dock_icon": {
     "type": "circle",
-    "background_color": "#bd93f9",
-    "foreground_color": "#bd93f9",
-    "border_color": "#bd93f9"
+    "background_color": "#22212c",
+    "foreground_color": "#9580FF",
+    "border_color": "#9580FF"
   },
   "statusBar": "dark-content"
 }
